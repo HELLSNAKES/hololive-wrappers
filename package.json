@@ -1,0 +1,27 @@
+{
+  "name": "hololive-wrappers",
+  "version": "1.0.0",
+  "description": "hololive use api from https://img-hololive-api.up.railway.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
+  },
+  "author": "HELLSNAKES",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HELLSNAKES/hololive-wrappers.git"
+  },
+  "keywords": [
+    "hololive"
+  ],
+  "bugs": {
+    "url": "https://github.com/HELLSNAKES/hololive-wrappers/issues"
+  },
+  "homepage": "https://github.com/HELLSNAKES/hololive-wrappers#readme",
+  "devDependencies": {}
+}
