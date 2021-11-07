@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hololive</h1>
+  <h1>Hololive-Wrappers</h1>
   <p>
     <a href="https://www.npmjs.com/package/hololive-wrappers"><img src="https://img.shields.io/npm/v/hololive-wrappers?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/hololive-wrappers"><img src="https://img.shields.io/npm/dt/hololive-wrappers?maxAge=3600" alt="NPM downloads" /></a>
