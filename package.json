@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "hololive use api from https://img-hololive-api.up.railway.app",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/hellsnakes"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "npm publish"
